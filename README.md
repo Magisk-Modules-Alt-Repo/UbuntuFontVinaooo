@@ -25,12 +25,12 @@ To be honest I never saw this bug, but it was inherited from one of the [project
 
 
 # Motivations
-I really love [Ubuntu Fonts](https://design.ubuntu.com/font) so i didn't found a simple module to put it in Android.
+I really love [Ubuntu Fonts](https://design.ubuntu.com/font) and i didn't found a simple module to put it in Android.
 
 # Other projects
 Please visit my other projects:
 https://github.com/vinaooo/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4NTc0NTU3LDE1NTUwOTgyNTYsMzg5ND
-I1NTAyXX0=
+eyJoaXN0b3J5IjpbNjQ5MzcxOTYsNjc4NTc0NTU3LDE1NTUwOT
+gyNTYsMzg5NDI1NTAyXX0=
 -->
