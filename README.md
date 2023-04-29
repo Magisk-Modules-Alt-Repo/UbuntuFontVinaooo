@@ -17,6 +17,7 @@ This is based in 2 awesome projects:
 ![enter image description here](/imgs/2023-04-29/IN2e5tNiA837DPPD.png)
 
 Roboto Font without bug:
+![enter image description here](/imgs/2023-04-29/MuXABZgPPtnO83GP.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI1MjA4NCwzODk0MjU1MDJdfQ==
+eyJoaXN0b3J5IjpbLTQ0MjgwMzI5OCwzODk0MjU1MDJdfQ==
 -->
