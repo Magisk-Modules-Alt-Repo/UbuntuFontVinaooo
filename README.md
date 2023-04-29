@@ -6,8 +6,12 @@ This is based in 2 awesome projects:
  1. https://forum.xda-developers.com/t/magisk-ubuntu-font-for-android.4096011/
  2. https://github.com/velitasali/ubuntu-font-android
  
- 
+
+
+# Known bugs
+
+ - List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTYzMzQxMV19
+eyJoaXN0b3J5IjpbMjc0MzU5MDg4XX0=
 -->
