@@ -11,6 +11,8 @@ This is based in 3 awesome projects:
 # Supported systems:
 
  - LineageOS 20 - Android 13 (My own device)
+
+Inherited from inspiration projects:
  - NitrogenOS - Android 11
  - Havoc-OS 4.9 - Android 11
  - Supposedly any AOSP version using Roboto Fonts
@@ -29,6 +31,6 @@ I really love [Ubuntu Fonts](https://design.ubuntu.com/font) so i didn't found a
 Please visit my other projects:
 https://github.com/vinaooo/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMxNDgzNTcsMTU1NTA5ODI1NiwzOD
-k0MjU1MDJdfQ==
+eyJoaXN0b3J5IjpbNjc4NTc0NTU3LDE1NTUwOTgyNTYsMzg5ND
+I1NTAyXX0=
 -->
