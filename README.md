@@ -12,11 +12,11 @@ This is based in 2 awesome projects:
 
  - The font weight doesn't show properly on some screen due to differences between Ubuntu Font and Roboto Font
  
- Bug image:
+ Ubuntu Font bug:
  
 ![enter image description here](/imgs/2023-04-29/IN2e5tNiA837DPPD.png)
 
-
+Roboto Font without bug:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODg0MjExLDM4OTQyNTUwMl19
+eyJoaXN0b3J5IjpbLTE2ODI1MjA4NCwzODk0MjU1MDJdfQ==
 -->
