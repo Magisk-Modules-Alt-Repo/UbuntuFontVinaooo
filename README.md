@@ -1,6 +1,6 @@
 # Ubuntu-Font-Vinaooo
 A simple Magisk Module to install Ubuntu Font on Android.
-At this point, all I've done is a big mix of these projects, but i promise to research 
+At this point, all I've done is a big mix of these projects, but i promise to research, improve and maintain this project alive.
 
 This is based in 3 awesome projects:
 
@@ -8,6 +8,9 @@ This is based in 3 awesome projects:
  2. https://forum.xda-developers.com/t/magisk-ubuntu-font-for-android.4096011/
  3. https://github.com/velitasali/ubuntu-font-android
 
+# Supported systens:
+
+ - LineageOS 20(Android
 
 # Known bugs
 
@@ -23,6 +26,6 @@ I really love [Ubuntu Fonts](https://design.ubuntu.com/font) so i didn't found a
 Please visit my other projects:
 https://github.com/vinaooo/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjM2NDk5OSwxNTU1MDk4MjU2LDM4OT
-QyNTUwMl19
+eyJoaXN0b3J5IjpbOTkwMzI2MjY4LDE1NTUwOTgyNTYsMzg5ND
+I1NTAyXX0=
 -->
