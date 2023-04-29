@@ -10,14 +10,7 @@ This is based in 2 awesome projects:
 
 # Known bugs
 
- - The font weight doesn't show properly on some screen due to differences between Ubuntu Font and Roboto Font
- 
- Ubuntu Font bug:
- 
-![enter image description here](/imgs/2023-04-29/IN2e5tNiA837DPPD.png)
-
-Roboto Font without bug:
-![enter image description here](/imgs/2023-04-29/MuXABZgPPtnO83GP.png)
+ - The font weight doesn't show properly on some screen due to differences between Ubuntu Font and Roboto Font, I didn't saw this bug, but it's 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjgwMzI5OCwzODk0MjU1MDJdfQ==
+eyJoaXN0b3J5IjpbMTU1NTA5ODI1NiwzODk0MjU1MDJdfQ==
 -->
