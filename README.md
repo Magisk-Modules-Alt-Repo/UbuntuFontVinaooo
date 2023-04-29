@@ -10,8 +10,9 @@ This is based in 2 awesome projects:
 
 # Known bugs
 
- - The font weight doesn't show properly on some screen due to 
+ - The font weight doesn't show properly on some screen due to differences between Ubuntu Font and Roboto Font:
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTUzMzIwN119
+eyJoaXN0b3J5IjpbMzg5NDI1NTAyXX0=
 -->
