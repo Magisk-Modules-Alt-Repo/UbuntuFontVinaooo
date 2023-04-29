@@ -8,9 +8,10 @@ This is based in 3 awesome projects:
  2. https://forum.xda-developers.com/t/magisk-ubuntu-font-for-android.4096011/
  3. https://github.com/velitasali/ubuntu-font-android
 
-# Supported systens:
+# Supported systems:
 
- - LineageOS 20(Android
+ - LineageOS 20 - Android 13 (My own device)
+ - 
 
 # Known bugs
 
@@ -26,6 +27,6 @@ I really love [Ubuntu Fonts](https://design.ubuntu.com/font) so i didn't found a
 Please visit my other projects:
 https://github.com/vinaooo/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwMzI2MjY4LDE1NTUwOTgyNTYsMzg5ND
-I1NTAyXX0=
+eyJoaXN0b3J5IjpbMTM2NDc5MTM2NCwxNTU1MDk4MjU2LDM4OT
+QyNTUwMl19
 -->
