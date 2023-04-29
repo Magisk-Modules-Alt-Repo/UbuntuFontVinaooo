@@ -16,8 +16,8 @@ To be honest I never saw this bug, but it was inherited from one of the [project
 
 
 # Motivations
-I really love [Ubuntu Fonts](https://design.ubuntu.com/font)
+I really love [Ubuntu Fonts](https://design.ubuntu.com/font) so i didn't found a simple module to put it in Android.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNjk2ODg5LDE1NTUwOTgyNTYsMzg5ND
-I1NTAyXX0=
+eyJoaXN0b3J5IjpbMTQzODQ2MjczMCwxNTU1MDk4MjU2LDM4OT
+QyNTUwMl19
 -->
