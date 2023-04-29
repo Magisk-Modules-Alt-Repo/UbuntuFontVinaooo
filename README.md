@@ -10,8 +10,8 @@ This is based in 2 awesome projects:
 
 # Known bugs
 
- - List item
+ - The font weight doesn't show properly on some screen due to 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MzU5MDg4XX0=
+eyJoaXN0b3J5IjpbMTg2NTUzMzIwN119
 -->
