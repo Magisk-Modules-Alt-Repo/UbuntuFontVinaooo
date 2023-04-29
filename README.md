@@ -1,5 +1,6 @@
 # Ubuntu-Font-Vinaooo
-A simple Magisk Module to install Ubuntu Font on Android
+A simple Magisk Module to install Ubuntu Font on Android.
+At this point, all I've done is a big mix of these projects, but i promise to research 
 
 This is based in 3 awesome projects:
 
@@ -22,6 +23,6 @@ I really love [Ubuntu Fonts](https://design.ubuntu.com/font) so i didn't found a
 Please visit my other projects:
 https://github.com/vinaooo/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU4ODE1NzgsMTU1NTA5ODI1NiwzOD
-k0MjU1MDJdfQ==
+eyJoaXN0b3J5IjpbMTY2MjM2NDk5OSwxNTU1MDk4MjU2LDM4OT
+QyNTUwMl19
 -->
