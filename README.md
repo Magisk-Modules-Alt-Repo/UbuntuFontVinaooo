@@ -11,7 +11,7 @@ This is based in 3 awesome projects:
 # Supported systems:
 
  - LineageOS 20 - Android 13 (My own device)
- - 
+ - Supposedly any AOSP version using Roboto in 
 
 # Known bugs
 
@@ -27,6 +27,6 @@ I really love [Ubuntu Fonts](https://design.ubuntu.com/font) so i didn't found a
 Please visit my other projects:
 https://github.com/vinaooo/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDc5MTM2NCwxNTU1MDk4MjU2LDM4OT
+eyJoaXN0b3J5IjpbLTE1MDU2MjgyMSwxNTU1MDk4MjU2LDM4OT
 QyNTUwMl19
 -->
