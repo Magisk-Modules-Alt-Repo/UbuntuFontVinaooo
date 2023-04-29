@@ -12,6 +12,7 @@ This is based in 3 awesome projects:
 
  - LineageOS 20 - Android 13 (My own device)
  - NitrogenOS - Android 11
+ - Havoc-OS 4.9 - Android 11
  - Supposedly any AOSP version using Roboto Fonts
 
 # Known bugs
@@ -28,6 +29,6 @@ I really love [Ubuntu Fonts](https://design.ubuntu.com/font) so i didn't found a
 Please visit my other projects:
 https://github.com/vinaooo/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY3ODg4OTcsMTU1NTA5ODI1NiwzOD
+eyJoaXN0b3J5IjpbLTE1NTMxNDgzNTcsMTU1NTA5ODI1NiwzOD
 k0MjU1MDJdfQ==
 -->
