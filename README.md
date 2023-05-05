@@ -1,12 +1,14 @@
 # Ubuntu-Font-Vinaooo
-A simple Magisk Module to install Ubuntu Font on Android.
-At this point, all I've done is a big mix of these projects, but i promise to research, improve and maintain this project alive.
+Check out this awesome Magisk Module that installs the popular Ubuntu font on your Android device! It's simple and easy to use. I promise you to continuously research, improve and maintain this project to keep it alive.
 
-This is based in 3 awesome projects:
+This project is based in 3 awesome projects:
 
  1. https://design.ubuntu.com/font
  2. https://forum.xda-developers.com/t/magisk-ubuntu-font-for-android.4096011/
  3. https://github.com/velitasali/ubuntu-font-android
+
+# What's this?
+This is a Magisk module. Magisk is a popular tool for rooting and modifying Android devices. It uses a systemless root method, which allows users to gain root access without modifying the system partition directly. One of the key features of Magisk is the ability to install custom modules, which can add various customizations or features to the device. Overall, Magisk provides a flexible and customizable way to modify and enhance Android devices.
 
 # Supported systems:
 
@@ -25,7 +27,7 @@ To be honest I never saw this bug, but it was inherited from one of the [project
 
 
 # Motivations
-I really love [Ubuntu Fonts](https://design.ubuntu.com/font) and i didn't found a simple module to put it in Android.
+I really love [Ubuntu Fonts](https://design.ubuntu.com/font), I put it everywhere I can, and I didn't found a simple module to put it in my phone.
 
 # Other projects
 Please visit my other projects:
